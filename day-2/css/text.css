@@ -1,0 +1,35 @@
+h1{
+    text-decoration: underline;
+    margin-top: 20px;
+}
+h1:hover{
+    color: red;
+    cursor: pointer;
+}
+
+#a{
+    text-align: left;
+    border: 2px dotted black;
+    margin: 20px 40px 30px 100px;
+}
+#b{
+    text-align: justify;
+    border: 2px solid black;
+    padding: 10px 30px 10px 100px;
+}
+#c{
+    text-align: right;
+    border: 2px dashed black;
+}
+#d{
+    text-align: left;
+    border-top: black dashed;
+    border-bottom: black dotted;
+    border-left:3px red solid ;
+    border-right:  blue solid ;
+}
+#e{
+    text-align: right;
+    border: 20px solid black;
+    border-radius: 30px;
+}
